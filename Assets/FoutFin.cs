@@ -9,7 +9,7 @@ public class FoutFin : MonoBehaviour
     private Graphic graphic;
     private float alpha = 0.0f;
     private float dist = 0.01f;
-    // fpr position
+    // for position
     private RectTransform rectTransform;
     private int aposy = -300;
     private int posDis = 3;
